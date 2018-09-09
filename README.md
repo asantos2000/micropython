@@ -39,3 +39,4 @@ Flashing
 
 * [Miniterm](https://pythonhosted.org/pyserial/examples.html#miniterm)
 * [Micropython](http://micropython.org/download)
+* [Get on the Good Foot with MicroPython on the ESP32](https://hackernoon.com/get-on-the-good-foot-with-micropython-on-the-esp32-decdd32c4720)
