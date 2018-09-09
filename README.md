@@ -31,6 +31,10 @@ Flashing
 
 `esptool.py --chip esp32 -p /dev/ttyUSB0 write_flash -z 0x1000 ./esp32-20180909-v1.9.4-498-g5cd2c7f2e.bin`
 
+## Tested
+
+* Ubuntu Linux 18 with ESP32 with 4MB
+
 ## Refs
 
 * [Miniterm](https://pythonhosted.org/pyserial/examples.html#miniterm)
